@@ -1,14 +1,14 @@
 <h1>Hi 👋, I'm Smruti Pragyan Rath</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate Data Analyst and software developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smruti-pragyan-rath&label=Profile%20views&color=0e75b6&style=flat" alt="smruti-pragyan-rath" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently in my 3rd year | SOA | ITER
 
-- ⚡ Fun fact **I dont just copy paste blindly 👀**
+- Python | Java | C | C++
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,9 +23,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smruti-pragyan-rath&label=Profile%20views&color=0e75b6&style=flat" alt="smruti-pragyan-rath" /> </p>
 
-- 🌱 I’m currently learning **Frameworks,etc**
+- 🌱 I’m currently learning **AI / ML**
 
-- ⚡ Fun fact **I dont just copy paste blindly 👀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
